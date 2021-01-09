@@ -2272,11 +2272,5 @@
     "type": "general",
     "setup": "How good are you at Power Point?",
     "punchline": "I Excel at it."
-  },
-  {
-    "id": 389,
-    "type": "general",
-    "setup": "What happens when frogs park illegally?",
-    "punchline": "They get Toad."
   }
 ]
